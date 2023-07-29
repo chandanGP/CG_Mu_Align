@@ -3,3 +3,4 @@ This is implimentation of paper "Collective Multi-type Entity Alignment Between 
 
 * Models.py have all required modles and functions
 * main.py have a code to train and test the model on itunes-amazon dataset
+* You have to download cc.en.300.bin  fasttext model from link and put it into this repo folder before training 
